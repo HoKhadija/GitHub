@@ -1,0 +1,74 @@
+/* GENERAL */
+*{
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  body{
+    font-family: Roboto;
+    font-weight: 300;
+    font-size: .9rem;
+    line-height: 1.5;
+  }
+  
+  a{
+    text-decoration: none;
+    color: #4472C4;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  
+  p{
+    margin: 0 0 1rem;
+  }
+  
+  h1{
+    margin: 0 0 1rem;
+    font-size: 2.5rem;
+    margin-bottom: .5rem;
+  }
+  
+  h2{
+    margin: 0 0 1rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+  
+  .text-blue{
+    color: #4472C4;
+  }
+  
+  .text-darkblue{
+    color: #002060;
+  }
+  
+  .text-uppercase{
+    text-transform: uppercase; 
+  }
+  
+  .icon{
+    margin-right: .5rem;
+  }
+
+.header{
+    background-color: #c38df5;
+}  
+
+  .Portait{
+    border-radius: 50%;
+    max-width: 150px;
+    margin: auto;
+    display: block;
+    margin-bottom: 50px;
+  }
+
+  .section{
+    margin-bottom: 1.5rem;
+  }
+
+  .compétences-liste{
+    list-style-type: circle;
+  }
+
